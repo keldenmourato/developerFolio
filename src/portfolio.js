@@ -253,7 +253,18 @@ const bigProjects = {
           url: "https://leccmovies.netlify.app/"
         }
       ]
-    }
+    },
+    {
+      image: require("./assets/images/qr.png"),
+      projectName: "QrCode Generator",
+      projectDesc: "Generate Qr Codes for text, urls, phone numbers, etc.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://qrcode-uzno.onrender.com/"
+        }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
