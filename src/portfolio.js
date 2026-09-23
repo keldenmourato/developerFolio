@@ -211,29 +211,6 @@ const bigProjects = {
   subtitle: "SOME STARTUPS THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Convert Companies to Communities",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
-      ]
-    },
-    {
       image: require("./assets/images/semfundo[1].png"),
       projectName: "Schoolnetwork",
       projectDesc: "An organization dedicated to building classrooms for children in Mozambique who study outdoors.",
