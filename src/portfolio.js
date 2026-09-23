@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native / Flutter and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1sOisS5DOWbZcpjWFGJfzOD7dClzU_zeR/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1t-lX7pYP8O8q04iOfrPHEg5LBhXx6xKM/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -276,7 +276,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: ""
+          url: "https://drive.google.com/file/d/1CYepZEGjCSJ4kS_Uuck1MiCW58cH-cav/view?usp=sharing"
         }
       ]
     },
@@ -289,7 +289,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: ""
+          url: "https://drive.google.com/file/d/1iGRajvw9bLRisXotTY8wf_uiSiTjSwCv/view?usp=sharing"
         }
       ]
     },
@@ -302,7 +302,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: ""
+          url: "https://drive.google.com/file/d/1w983a9vCDVoPHD4uocKmhNYU46lz92xY/view?usp=sharing"
         }
       ]
     }
