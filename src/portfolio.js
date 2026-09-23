@@ -165,7 +165,7 @@ const techStack = {
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
-// Work experience section
+// Work experience section 
 
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
@@ -180,7 +180,19 @@ const workExperiences = {
        "Provided technical support and troubleshooting for hardware, software, and network-related issues",
        "Assisted in software development, system configuration, and implementation of IT solutions for clients"
       ]
+    },
+    {
+      role: "IT Support Technician and Odoo Developer",
+      company: "Knightsbridge, SU, Lda",
+      companylogo: require("./assets/images/logo KB.png"),
+      date: "June 2026 – August 2026",
+      desc: "IT support, systems maintenance, and Odoo software Module development & assistance.",
+      descBullets: [
+       "Fully Configured and Maintained Odoo ERP System for the company",
+       "Provided technical support and troubleshooting for hardware, software, and network-related issues"
+      ]
     }
+
   ]
 };
 
